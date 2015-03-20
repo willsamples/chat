@@ -8,7 +8,8 @@
  */
  
  /*
-  * SEE IT LIVE AT http://66.190.237.88/
+  * TRY IT LIVE IT AT http://66.190.237.88/
+  * (this is not a functioning chat. it is just a UI demo)
   *
   * Try:
   *  - moving the chat window by dragging the active tab
